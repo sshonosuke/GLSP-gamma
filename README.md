@@ -6,7 +6,7 @@ Hamura, Y., Onizuka, T., Hashimoto, S. and Sugasawa, S. (2022). Sparse Bayesian 
 
 The repository includes the following files.
 
-Gamma-GLSP-MCMC.R : Implementation of MCMC algorithms 
-oneshot.R: one-shot simulation study 
-Example-gene: example to for applying the proposed method  
-prostatedata.RData: dataset 
+* Gamma-GLSP-MCMC.R : Implementation of MCMC algorithms 
+* oneshot.R: one-shot simulation study 
+* Example-gene: example to for applying the proposed method  
+* prostatedata.RData: dataset 
