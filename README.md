@@ -6,8 +6,7 @@ Hamura, Y., Onizuka, T., Hashimoto, S. and Sugasawa, S. (2022). Sparse Bayesian 
 
 The repository includes the following files.
 
-Sampler_t_dist.R : Implementation of MCMC algorithms for fitting t-distribution
-Sampler_ DirMult.R : Implementation of MCMC algorithms for fitting Dirichlet-multinomial distribution
-Example_t_dist.R : One-shot simulation study with t-distribution
-Example_DirMult.R : One-shot simulation study with Dirichlet-multinomial distribution
-Replication.zip: Files to replicate tables and figures in the above paper.
+Gamma-GLSP-MCMC.R : Implementation of MCMC algorithms 
+oneshot.R: one-shot simulation study 
+Example-gene: example to for applying the proposed method  
+prostatedata.RData: dataset 
